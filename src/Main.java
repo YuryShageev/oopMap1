@@ -10,15 +10,16 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hi");
 
-        Methods laptop1 = new Methods("Lenovo", 30);
-        Methods laptop2 = new Methods("Dell", 45);
-        Methods laptop3 = new Methods("Asus", 38);
-        Methods laptop4 = new Methods("Acer", 31);
-        Methods laptop5 = new Methods("MacBook", 180);
+//        Methods laptop1 = new Methods("Lenovo", 30);
+//        Methods laptop2 = new Methods("Dell", 45);
+//        Methods laptop3 = new Methods("Asus", 38);
+//        Methods laptop4 = new Methods("Acer", 31);
+//        Methods laptop5 = new Methods("MacBook", 180);
 
 
         add("Lenovo", 30);
         add("Dell", 45);
+        add("Asus", 38);
 
         System.out.println(lapTop);
 //        System.out.println(lapTop);
